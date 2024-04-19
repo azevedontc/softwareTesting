@@ -13,3 +13,9 @@
 
 ### DEPOSIT
 
+POST {{URL}}deposit
+
+{
+    "reciverAccontNumber": 12345,
+    "amount": 1000
+}
